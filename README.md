@@ -1,35 +1,41 @@
 # 👋 Hi, I'm Alessandro Branco
 
-**Business-focused Data Analyst** with 10+ years of experience in teaching & sales — transforming data into actionable insights that drive business growth.
+I’m a **Data Analyst** with a background in mathematics education and sales, passionate about transforming raw data into actionable insights that drive growth, retention, and operational efficiency. I build automated reports, track key performance indicators, and create dashboards that help teams make smarter, data-driven decisions.
+
+Alongside my core analytics work, I explore **front-end development** through hobby projects. This helps me sharpen problem-solving skills and prototype user-friendly dashboards and interfaces—blending creativity with data.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Core Skills (Data & BI)
 
-- **Programming & Querying:** Python (Pandas, NumPy), SQL  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Plotly  
-- **Front-End Development:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap  
-- **Basic ETL & Data Wrangling:** Data cleaning, automation with Python & Excel  
-- **Version Control:** Git, GitHub  
-- **Soft Skills:** Communication, Business Acumen, Data Storytelling
+- **SQL** (advanced querying, data manipulation)  
+- **Python** (Pandas, NumPy, automation, cleaning)  
+- **Excel** (modeling, automation, analysis)  
+- **Power BI & Tableau** (interactive dashboards, visualization)  
+- Data wrangling, KPI design, exploratory analysis  
+- **Git & GitHub** (version control, collaboration)
+
+---
+
+## 🌐 Front-End (Hobby Projects)
+
+- React, JavaScript, HTML, CSS  
+- Tailwind CSS, Bootstrap  
+
+I use front-end projects to experiment with UI/UX concepts and build lightweight prototypes that complement my analytics work.
 
 ---
 
 ## 📂 Explore My Work
 
-- [Data Analytics Portfolio](https://github.com/abranco0403/data-analytics-portfolio)  
-- [LeetCode Profile](https://leetcode.com/u/abranco/) — showcasing coding practice & problem-solving skills
+- **Data Analytics Portfolio:** alessandrobranco.com  
+- **GitHub Repositories:** analytics projects & front-end prototypes  
+ **Coding Practice:** [LeetCode](https://leetcode.com/u/abranco/) — SQL & Python problem-solving
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/alessandrobranco](https://linkedin.com/in/alessandrobranco)  
-- Email: alessandrobranco90@gmail.com  
-- Website: [alessandrobranco.com](https://alessandrobranco.com)
-
----
-
-> “Making data work for people, not just dashboards.”
-
-
+- **LinkedIn:** linkedin.com/in/alessandrobranco  
+- **Email:** alessandrobranco90@gmail.com  
+- **Website:** alessandrobranco.com
