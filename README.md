@@ -1,41 +1,45 @@
-# 👋 Hi, I'm Alessandro Branco
+# Hi, I'm Alessandro 👋
 
-I’m a **Data Analyst** with a background in mathematics education and sales, passionate about transforming raw data into actionable insights that drive growth, retention, and operational efficiency. I build automated reports, track key performance indicators, and create dashboards that help teams make smarter, data-driven decisions.
+I'm a Business Analyst with hands-on experience supporting retail and ecommerce operations through reporting, KPI tracking, and data analysis.
 
-Alongside my core analytics work, I explore **front-end development** through hobby projects. This helps me sharpen problem-solving skills and prototype user-friendly dashboards and interfaces—blending creativity with data.
+I currently work as a Retail Sales Manager / Operations Analyst, where I partner with business owners and sales teams to gather reporting requirements, define performance metrics, and build recurring reports and dashboards using SQL, Power BI, and Excel. My work focuses on analyzing sales trends, product performance, customer behavior, and inventory levels to support decisions around pricing, promotions, staffing, and replenishment planning.
 
----
-
-## 🛠️ Core Skills (Data & BI)
-
-- **SQL** (advanced querying, data manipulation)  
-- **Python** (Pandas, NumPy, automation, cleaning)  
-- **Excel** (modeling, automation, analysis)  
-- **Power BI & Tableau** (interactive dashboards, visualization)  
-- Data wrangling, KPI design, exploratory analysis  
-- **Git & GitHub** (version control, collaboration)
+Previously, I worked as a mathematics teacher, developing a strong foundation in data analysis, structured reporting, and communicating quantitative insights to non-technical stakeholders.
 
 ---
 
-## 🌐 Front-End (Hobby Projects)
+## Core Skills
 
-- React, JavaScript, HTML, CSS  
-- Tailwind CSS, Bootstrap  
+**Business Analysis**
+- Requirements gathering & documentation  
+- KPI definition & performance tracking  
+- Stakeholder communication  
+- Sales & ecommerce analytics  
+- Operations analysis  
+- Process improvement  
 
-I use front-end projects to experiment with UI/UX concepts and build lightweight prototypes that complement my analytics work.
+**Data & Tools**
+- SQL (queries, joins, aggregations)  
+- Power BI (dashboards, data modeling, DAX basics)  
+- Excel (PivotTables, Power Query, reporting)  
+- Python (pandas for analysis)  
 
 ---
 
-## 📂 Explore My Work
+## Projects
 
-- **Data Analytics Portfolio:** alessandrobranco.com  
-- **GitHub Repositories:** analytics projects & front-end prototypes  
- **Coding Practice:** [LeetCode](https://leetcode.com/u/abranco/) — SQL & Python problem-solving
+- Retail Operations Performance Dashboard (Power BI, SQL, Excel)  
+- Customer Retention & Segmentation Analysis (Python, Excel)  
+- Sales Trend & Forecasting Analysis (Excel, Python)
+
+Each project focuses on real-world business questions such as performance tracking, customer behavior analysis, and operational planning.
 
 ---
 
-## 📫 Connect With Me
+## Currently seeking
 
-- **LinkedIn:** linkedin.com/in/alessandrobranco  
-- **Email:** alessandrobranco90@gmail.com  
-- **Website:** alessandrobranco.com
+Junior / Associate Business Analyst or Operations Analyst roles in the Los Angeles / South Bay area.
+
+📍 Torrance, CA  
+🔗 LinkedIn: https://linkedin.com/in/alessandro-branco  
+🌐 Portfolio: https://alessandrobranco.com
