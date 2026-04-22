@@ -1,7 +1,4 @@
 # Hi, I'm Alessandro 👋
-
-# Hi, I'm Alessandro 👋
-
 ### Pricing Analyst & Sales Operations | Mathematics Background | Torrance, CA
 
 Most analysts work with data someone else owns. I own the full loop — pulling transaction data from POS systems and Google Analytics, building the pricing models, and making the actual call on what we charge and why. That combination of analytical ownership and business accountability is what drives my work.
